@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.28 919.39" xmlSpace="preserve" fill="#339d29">
+  <path d="
+      M85.28 68.2H100000v72H85.28z
+      " />
+  <path d="
+      M85.28 171.2H100000v72H85.28z
+      " />
+  <path d="
+      M85.28 274.2H100000v72H85.28z
+      " />
+  <path d="
+      M85.28 377.2H100000v72H85.28z
+      " />
+  <path d="
+      M85.28 480.2H100000v72H85.28z
+      " />
+  <path d="
+      M85.28 583.2H100000v72H85.28z
+      " />
+  <path d="
+      M85.28 686.2H100000v72H85.28z
+      " />
+  <path d="
+      M85.28 789.2H100000v72H85.28z
+      " />
+
+  <!-- {/* <text transform="translate(150.457 34.914)" className="fill-green-500 text-4xl">
+      {`ACESSO : ${acesso}`}
+    </text> */} -->
+</svg>
